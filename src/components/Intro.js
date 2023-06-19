@@ -5,10 +5,11 @@ const Intro = () => {
   return (
     <SectionContainer>
       <Text>
-        I am a web designer and front-end developer with a background in education.
-        My goal is to use my creativity and problem solution mindset to help entrepreneurs and
-        small business design amazing personalized websites. In the process I include training
-        hours to teach clients how to use the website platform and make changes by themselves.
+        I am a creative web designer and front-end developer with a background in education.
+        My goal is to use my problem solution mindset and knowledge about learning, to help
+        entrepreneurs and small businesses create personalized websites that showcase their
+        strengths, USP and passion to start a project. In the process I also include training
+        hours and teach clients how to use the website platform and make changes by themselves.
       </Text>
     </SectionContainer>
 
