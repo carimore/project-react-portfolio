@@ -6,10 +6,10 @@ const Toolbox = () => {
     <SectionContainer>
       <Headings> TOOLBOX </Headings>
       <Text>
-        HTML, CSS, JavaScript, React, Web Accessibly,
-        API:s, mob-programming, pair-programming, Github,
         Wix, Word-Press, SquareSpace, Adobe Photoshoop,
-        Adobe Illustrator, Adobe InDesign, Figma
+        Adobe Illustrator, Adobe InDesign, Figma, 
+        HTML, CSS, JavaScript, React, Web Accessibly,
+        API:s, mob-programming, pair-programming, Github
       </Text>
     </SectionContainer>
   )

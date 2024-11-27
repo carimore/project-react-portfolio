@@ -1,34 +1,79 @@
 [
     {
-        "title": "Evey Lyon Books",
+        "title": "The Serious Sofa",
         "id": 1,
-        "image": "General-Images/EveyLyon.png",
-        "description": "A shopify website made for a romantic novel author. Coded extra feautures to the website to attract more readers. .",
-        "repo-name": "project-evey-lyon",
-        "url": "https://www.eveylyonbooks.com/"
+        "image": "General-Images/The Serious Sofa.png",
+        "description": "A wix website made for a coach. Structure discussed with client to best show client's creative skills.",
+        "repo-name": "project-the-serious-sofa",
+        "url": "https://www.theserioussofa.com/"
     },
     
     {
-        "title": "CB by Me",
+        "title": "Addrenaline",
         "id": 2,
-        "image": "General-Images/CBbyMe.png",
-        "description": "A website made for a well-being consultancy. Worked on the whole design process, from branding to final website.",
-        "repo-name": "project-cbbyme",
-        "url": "https://www.cbbyme.com/"
+        "image": "General-Images/Addrenaline.png",
+        "description": "An Elementor website made for a Media Production Company. Coded many extra feautures including a parallax effect.",
+        "repo-name": "project-addrenaline",
+        "url": "https://addrenalinemedia.com/"
+    },
+    
+    {
+        "title": "Billies Sauna",
+        "id": 3,
+        "image": "General-Images/Billies.png",
+        "description": "A wix website made for a sauna with an external booking platform incorporated for better UX.",
+        "repo-name": "project-billies-sauna",
+        "url": "https://www.billiessauna.com/"
+    },
+
+    {
+        "title": "Whispering Bold",
+        "id": 4,
+        "image": "General-Images/Whispering Bold.png",
+        "description": "A wix website made for interior design influencer. Structure co-designed with client to show her style.",
+        "repo-name": "project-whispering-bold",
+        "url": "https://www.whisperingbold.com/"
+    },
+    
+    {
+        "title": "Evey Lyon Books",
+        "id": 5,
+        "image": "General-Images/EveyLyon.png",
+        "description": "A shopify website made for a romantic novel author. Coded extra feautures to the website to attract more readers.",
+        "repo-name": "project-evey-lyon",
+        "url": "https://www.eveylyonbooks.com/"
+    },
+
+    {
+        "title": "Wild Flow",
+        "id": 6,
+        "image": "General-Images/Wild Flow.png",
+        "description": "A website made on wix for a yoga, dance and sister circles guide. Worked on the whole design process, from branding to final website.",
+        "repo-name": "project-wild-flow",
+        "url": "https://www.wildflow-er.com/"
     },
     
     {
         "title": "Starry Minds",
-        "id": 3,
+        "id": 7,
         "image": "General-Images/StarryMinds.png",
         "description": "A website made for a behavior therapist. Worked on the whole design process, from branding to final website.",
         "repo-name": "project-starry-minds",
         "url": "https://www.starryminds.com/"
     },
+
+    {
+        "title": "Reimagine Makelaars",
+        "id": 8,
+        "image": "General-Images/Reimagine.png",
+        "description": "A website made for a real state agent. Worked on the whole design process, from branding to final website.",
+        "repo-name": "project-reimagine",
+        "url": "https://www.reimaginemakelaars.com/"
+    },
     
     {
         "title": "Artesano Bakkerij",
-        "id": 4,
+        "id": 9,
         "image": "General-Images/Artesano.png",
         "description": "A website for a bakery and cafe shop. Design based on logo and clients vision.",
         "repo-name": "project-artesano-bakkerij",
@@ -36,53 +81,71 @@
     },
     
     {
+        "title": "Villa Maresme",
+        "id": 10,
+        "image": "General-Images/VillaMaresme.png",
+        "description": "A hotel website with a booking system incorporated. This site was designed with Wix and uses Cubilis Hotel Software.",
+        "repo-name": "project-villa-maresme",
+        "url": "https://www.villamaresme.com/"
+    },
+
+    {
+        "title": "From Head to Toes",
+        "id": 11,
+        "image": "General-Images/FHTT.png",
+        "description": "A website designed for a massage company. Worked on all the design process, from branding to final website.",
+        "repo-name": "project-from-head-to-toes",
+        "url": "https://www.fromheadtotoes.nl/"
+    },
+
+    {
+        "title": "Coaching Shoes",
+        "id": 12,
+        "image": "General-Images/Coaching Shoes.png",
+        "description": "A website designed for a coach on a platform choosen by the client. Structure and illustrations based on the uniqueness of client's coaching vission.",
+        "repo-name": "project-from-head-to-toes",
+        "url": "https://www.coachingshoes.nl/"
+    },
+
+    {
+        "title": "Boutique Hotel Vosje",
+        "id": 13,
+        "image": "General-Images/HotelVosje.png",
+        "description": "A website for a Small Boutique Hotel. This website is built using the Wix platform combined with Cubilis Hotel Software.",
+        "repo-name": "project-hotel-vosje",
+        "url": "https://www.hotelvosje.nl/"
+    },
+
+    {
+        "title": "Pilar Andujar Photography",
+        "id": 14,
+        "image": "General-Images/Pilar Andujar.png",
+        "description": "A website for a Photographer. The website structure was planned with client to highlight her USP .",
+        "repo-name": "project-pilar-andujar-photography",
+        "url": "https://pilarandujarphotography.com/"
+    },
+
+    {
         "title": "Figs & Grains",
-        "id": 5,
+        "id": 15,
         "image": "General-Images/FigsandGrains.png",
         "description": "A website for a catering and delivery startup. Worked on the whole design process, from branding to final website.",
         "repo-name": "project-figs-and-grains",
         "url": "https://www.figsandgrains.com/"
     },
 
-    {
-        "title": "Villa Maresme",
-        "id": 6,
-        "image": "General-Images/VillaMaresme.png",
-        "description": "A hotel website with a booking system incorporated. This site was designed with Wix and uses Cubilis Hotel Software.",
-        "repo-name": "project-villa-maresme",
-        "url": "https://www.villamaresme.com/"
-    },
-    
-  {
-      "title": "From Head to Toes",
-      "id": 7,
-      "image": "General-Images/FHTT.png",
-      "description": "A website designed for a massage company. Worked on all the design process, from branding to final website.",
-      "repo-name": "project-from-head-to-toes",
-      "url": "https://www.fromheadtotoes.nl/"
-  },
-
   {
       "title": "Beata Linz Marketing",
-      "id": 8,
+      "id": 16,
       "image": "General-Images/Bea.png",
       "description": "Website built for email marketing expert. Website editing in SquareSpace",
       "repo-name": "project-beata-linz",
       "url": "https://www.beatalinz.com/"
   },
 
-  {
-      "title": "Boutique Hotel Vosje",
-      "id": 9,
-      "image": "General-Images/HotelVosje.png",
-      "description": "A website for a Small Boutique Hotel. This website is built using the Wix platform combined with Cubilis Hotel Software.",
-      "repo-name": "project-hotel-vosje",
-      "url": "https://www.hotelvosje.nl/"
-  },
-
 {
     "title": "International Lactation Consultant ",
-    "id": 10,
+    "id": 17,
     "image": "General-Images/ILC.png",
     "description": "A website designed for a lactation consultant using Square Space. Worked on the whole design process, from branding to final website.",
     "repo-name": "project-ilc",
@@ -91,7 +154,7 @@
   
 {
     "title": "Mandy Krause",
-    "id": 11,
+    "id": 18,
     "image": "General-Images/Mandy.png",
     "description": "Portafolio for an Art Director. This project was co-designed with Mandy. ",
     "repo-name": "project-mandy-krause",
@@ -100,10 +163,20 @@
 
 {
     "title": "Moms in Marketing",
-    "id": 12,
+    "id": 19,
     "image": "General-Images/MIM.png",
     "description": "Website for a community of moms in marketing. Co-creator of the project. ",
     "repo-name": "project-mandy-krause",
     "url": "https://www.moms-in-marketing.com/"
+},
+
+{
+    "title": "CB by Me",
+    "id": 20,
+    "image": "General-Images/CBbyMe.png",
+    "description": "A website made for a well-being consultancy. Worked on the whole design process, from branding to final website.",
+    "repo-name": "project-cbbyme",
+    "url": "https://www.cbbyme.com/"
 }
+
 ]
