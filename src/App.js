@@ -1,6 +1,7 @@
 import React from 'react';
 import GlobalStyles from 'GlobalStyles';
 import Intro from 'components/Intro'
+import Guide from 'components/Guide';
 import { Header } from 'components/Header';
 import Toolbox from 'components/Toolbox'
 import FeaturedProjects from 'components/FeaturedProjects';
@@ -12,6 +13,7 @@ export const App = () => {
       <GlobalStyles />
       <Header />
       <Intro />
+      <Guide />
       <FeaturedProjects />
       <Toolbox />
       <Footer />
