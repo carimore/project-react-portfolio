@@ -6,10 +6,9 @@ const Toolbox = () => {
     <SectionContainer>
       <Headings> TOOLBOX </Headings>
       <Text>
-        Wix, Word-Press, SquareSpace, Adobe Photoshoop,
-        Adobe Illustrator, Adobe InDesign, Figma,
-        HTML, CSS, JavaScript, React, Web Accessibly,
-        API:s, mob-programming, pair-programming, Github
+        Wix, WordPress, Squarespace, any platform, all the Adobes,
+        Canva, SEO, Google Ads, social media, HTML, CSS, JavaScript,
+        React, GitHub and, most importantly, Empathy.
       </Text>
     </SectionContainer>
   )
