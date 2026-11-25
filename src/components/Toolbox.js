@@ -7,7 +7,7 @@ const Toolbox = () => {
       <Headings> TOOLBOX </Headings>
       <Text>
         Wix, Word-Press, SquareSpace, Adobe Photoshoop,
-        Adobe Illustrator, Adobe InDesign, Figma, 
+        Adobe Illustrator, Adobe InDesign, Figma,
         HTML, CSS, JavaScript, React, Web Accessibly,
         API:s, mob-programming, pair-programming, Github
       </Text>
