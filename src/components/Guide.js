@@ -44,9 +44,6 @@ const steps = [
 const Guide = () => {
   return (
     <SectionContainer>
-      <Headings>CARI MORENO: WEBSITE AND BRAND GUIDE</Headings>
-      <Subtitle>How can I help you shine online?</Subtitle>
-
       <Grid>
         {qualities.map((item) => (
           <Card key={item.title}>
