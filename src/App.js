@@ -13,8 +13,8 @@ export const App = () => {
       <GlobalStyles />
       <Header />
       <Intro />
+     <FeaturedProjects />
       <Guide />
-      <FeaturedProjects />
       <Toolbox />
       <Footer />
     </>
