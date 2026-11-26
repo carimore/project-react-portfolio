@@ -47,7 +47,7 @@ const Guide = () => {
           The reason why I love working with entrepreneurs is because they are passionate about
           what they to and they want to share it. I have learned so much from my previous clients,
           from Reiki to making bread.
-          Are you curious? Contact me for a FREE chat and tell me how I ca help you make your next
+          Are you curious? Contact me for a FREE chat and tell me how I can help you make your next
           project come TRUE.
         </Answer>
         <ProfilePic src={profileImg} alt="Profile Picture Carina Moreno" />
