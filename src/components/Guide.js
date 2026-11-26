@@ -42,6 +42,13 @@ const Guide = () => {
           <br />
           For all the reasons above. AI can build a page. But it can’t be curious about you,
           care about your success, or connect you with the people that will help you grow. I can.
+          We will use AI for the right things, to help you reduce the amount of work, to do the
+          autmatic tasks that don't require creativity or passion.
+          The reason why I love working with entrepreneurs is because they are passionate about
+          what they to and they want to share it. I have learned so much from my previous clients,
+          from Reiki to making bread. 
+          Are you curious? Contact me for a FREE chat and tell me how I ca help you make your next
+          project come TRUE.
         </Answer>
         <ProfilePic src={profileImg} alt="Profile Picture Carina Moreno" />
       </Bottom>
