@@ -23,10 +23,9 @@ const FeaturedProjects = () => {
   return (
     <SectionContainerGray>
       <Headings><span> MY PROJECTS </span></Headings>
-      <Count>{projects.length} websites in {groups.length} industries</Count>
       {groups.map((group) => (
         <div key={group.name}>
-          <CategoryTitle>{group.name} ({group.items.length})</CategoryTitle>
+          <CategoryTitle>{group.name}</CategoryTitle>
           <Grid>
             {group.items.map((project) => (
               <ProjectWrapper key={project.id}>
@@ -44,20 +43,11 @@ const FeaturedProjects = () => {
   )
 }
 
-const Count = styled.p`
-  font-family: 'Karla', sans-serif;
-  font-size: 20px;
-  text-align: center;
-  margin-bottom: 20px;
-`
-
 const CategoryTitle = styled.h3`
   font-family: 'Montserrat', sans-serif;
   font-size: 20px;
   text-transform: uppercase;
   color: #f567a7;
-  border-bottom: 2px solid #f567a7;
-  padding-bottom: 8px;
   margin: 40px 0 20px;
 `
 
