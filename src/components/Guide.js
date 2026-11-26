@@ -40,8 +40,12 @@ const Guide = () => {
         <Answer>
           <strong>Why do I need you if I can do it with AI?</strong>
           <br />
-          For all the reasons above. AI can build a page. But it can’t be curious about you,
-          care about your success, or connect you with the right people. I can.
+          For all the reasons above. AI can build a website for you, but it can’t be curious about you,
+          care about your success, or connect you with the people that will help you grow, I can. The reason 
+          I like working with entrepreneurs is because they are passionate about what they do and they want
+          to share it. I have learned so much with my previous clients, from reiki to making bread. 
+          Are you curious? contact me for a FREE chat and tell me how can I help you making your next project
+          come true. 
         </Answer>
         <ProfilePic src={profileImg} alt="Profile Picture Carina Moreno" />
       </Bottom>
