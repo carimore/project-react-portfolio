@@ -57,8 +57,8 @@ const Mailme = styled.img`
   position: fixed;
   right: 10%;
   top: 50%;
-  height: 100px;
-  width: 100px;
+  height: 200px;
+  width: 200px;
   border-radius: 50%;
   object-fit: cover;
   z-index: 99;
