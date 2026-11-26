@@ -3,25 +3,6 @@ import styled from 'styled-components';
 import { SectionContainer, Text } from 'GlobalStyles';
 
 // To change the text, edit the lists below. Keep the quotes and commas.
-const qualities = [
-  {
-    title: 'Creative',
-    text: 'I believe one template doesn’t fit all. Let’s think outside the box and personalise your website. What is the best way to show your uniqueness and make you stand out?'
-  },
-  {
-    title: 'Curious',
-    text: 'If you believe you have something special to share, I want to get to know you and learn more about what you do. How can we share your knowledge and passion to attract customers?'
-  },
-  {
-    title: 'Caring',
-    text: 'Not everyone is a techy. Let’s find the web design tools that fit your business. And don’t worry, I’ll teach you how to use them. I want you to succeed. You are not on your own, and it won’t cost you a fortune.'
-  },
-  {
-    title: 'Connector',
-    text: 'A website is only one part of your business. What else do you need? Through my network of partners and clients, I can help you find the right people to help your business thrive.'
-  }
-];
-
 const steps = [
   {
     title: 'Write',
@@ -38,6 +19,25 @@ const steps = [
   {
     title: 'Learn',
     text: 'I think entrepreneurs should be able to change their websites by themselves. After a couple of months your business will grow, and you will want to change things. I will teach you how to do this and answer all your questions.'
+  }
+];
+
+const qualities = [
+  {
+    title: 'Creative',
+    text: 'I believe one template doesn’t fit all. Let’s think outside the box and personalise your website. What is the best way to show your uniqueness and make you stand out?'
+  },
+  {
+    title: 'Curious',
+    text: 'If you believe you have something special to share, I want to get to know you and learn more about what you do. How can we share your knowledge and passion to attract customers?'
+  },
+  {
+    title: 'Caring',
+    text: 'Not everyone is a techy. Let’s find the web design tools that fit your business. And don’t worry, I’ll teach you how to use them. I want you to succeed. You are not on your own, and it won’t cost you a fortune.'
+  },
+  {
+    title: 'Connector',
+    text: 'A website is only one part of your business. What else do you need? Through my network of partners and clients, I can help you find the right people to help your business thrive.'
   }
 ];
 
