@@ -12,7 +12,6 @@ export const Header = () => {
         <span style={{ fontWeight: '700' }}>website & brand guide</span>
         <span style={{ fontWeight: '400', fontSize: '24px', lineHeight: '32px' }}>How can I help you Shine Online?</span>
       </HeaderText>
-      <ProfilePic src={profileImg} alt="Profile Picture Carina Moreno" />
       <a href="mailto:carimoreno1@gmail.com" role="button" target="_blank" rel="noreferrer">
         <Mailme src={Mail} alt="Email me" />
       </a>
