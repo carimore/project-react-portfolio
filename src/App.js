@@ -14,6 +14,7 @@ export const App = () => {
       <GlobalStyles />
       <Header />
       <Intro />
+      <Journey />
       <FeaturedProjects />
       <Guide />
       <Toolbox />
