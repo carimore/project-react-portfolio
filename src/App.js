@@ -1,9 +1,10 @@
 import React from 'react';
 import GlobalStyles from 'GlobalStyles';
-import Intro from 'components/Intro'
+import Intro from 'components/Intro';
+import Journey from 'components/Journey';
 import Guide from 'components/Guide';
 import { Header } from 'components/Header';
-import Toolbox from 'components/Toolbox'
+import Toolbox from 'components/Toolbox';
 import FeaturedProjects from 'components/FeaturedProjects';
 import Footer from 'Footer';
 
