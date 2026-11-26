@@ -53,7 +53,6 @@ const Guide = () => {
         ))}
       </Grid>
 
-      
       <Text>
         <strong>Why do I need you if I can do it with AI?</strong>
         <br />
