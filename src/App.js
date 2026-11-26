@@ -13,7 +13,7 @@ export const App = () => {
       <GlobalStyles />
       <Header />
       <Intro />
-     <FeaturedProjects />
+      <FeaturedProjects />
       <Guide />
       <Toolbox />
       <Footer />
