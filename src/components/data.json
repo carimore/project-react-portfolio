@@ -1,163 +1,178 @@
 [
-    {
-      "title": "The Serious Sofa",
-      "id": 1,
-      "image": "General-Images/The Serious Sofa.png",
-      "description": "Wix website created for a coach. Structure co-developed to highlight the client's creative skills.",
-      "repo-name": "project-the-serious-sofa",
-      "url": "https://www.theserioussofa.com/"
-    },
-    {
-      "title": "Addrenaline",
-      "id": 2,
-      "image": "General-Images/Addrenaline.png",
-      "description": "Elementor website for a media production company. Custom-coded features including parallax effects.",
-      "repo-name": "project-addrenaline",
-      "url": "https://addrenalinemedia.com/"
-    },
-    {
-      "title": "Billies Sauna",
-      "id": 3,
-      "image": "General-Images/Billies.png",
-      "description": "Wix website for a sauna with seamless integration of an external booking platform for improved UX.",
-      "repo-name": "project-billies-sauna",
-      "url": "https://www.billiessauna.com/"
-    },
-    {
-      "title": "Whispering Bold",
-      "id": 4,
-      "image": "General-Images/Whispering Bold.png",
-      "description": "Wix website for an interior design influencer. Co-designed layout to reflect her unique style.",
-      "repo-name": "project-whispering-bold",
-      "url": "https://www.whisperingbold.com/"
-    },
-    {
-      "title": "Evey Lyon Books",
-      "id": 5,
-      "image": "General-Images/EveyLyon.png",
-      "description": "Shopify website for a romance author. Custom-coded features to attract and engage readers.",
-      "repo-name": "project-evey-lyon",
-      "url": "https://www.eveylyonbooks.com/"
-    },
-    {
-      "title": "Wild Flow",
-      "id": 6,
-      "image": "General-Images/Wild Flow.png",
-      "description": "Wix website for a yoga, dance, and sister circles guide. Full design process from branding to build.",
-      "repo-name": "project-wild-flow",
-      "url": "https://www.wildflow-er.com/"
-    },
-    {
-      "title": "Starry Minds",
-      "id": 7,
-      "image": "General-Images/StarryMinds.png",
-      "description": "Website for a behavioral therapist. Handled branding and web design from start to finish.",
-      "repo-name": "project-starry-minds",
-      "url": "https://www.starryminds.com/"
-    },
-    {
-      "title": "Reimagine Makelaars",
-      "id": 8,
-      "image": "General-Images/Reimagine.png",
-      "description": "Website for a real estate agency. Complete design process including branding and website.",
-      "repo-name": "project-reimagine",
-      "url": "https://www.reimaginemakelaars.com/"
-    },
-    {
-      "title": "Artesano Bakkerij",
-      "id": 9,
-      "image": "General-Images/Artesano.png",
-      "description": "Website for a bakery and café. Design based on the client’s vision and brand identity.",
-      "repo-name": "project-artesano-bakkerij",
-      "url": "https://www.artesanobakkerij.com/"
-    },
-    {
-      "title": "Villa Maresme",
-      "id": 10,
-      "image": "General-Images/VillaMaresme.png",
-      "description": "Hotel website with integrated booking system. Built on Wix using Cubilis Hotel Software.",
-      "repo-name": "project-villa-maresme",
-      "url": "https://www.villamaresme.com/"
-    },
-    {
-      "title": "From Head to Toes",
-      "id": 11,
-      "image": "General-Images/FHTT.png",
-      "description": "Website for a massage company. Complete design from branding to website delivery.",
-      "repo-name": "project-from-head-to-toes",
-      "url": "https://www.fromheadtotoes.nl/"
-    },
-    {
-      "title": "Coaching Shoes",
-      "id": 12,
-      "image": "General-Images/Coaching Shoes.png",
-      "description": "Website for a coach on a platform chosen by the client. Custom illustrations and structure reflect her unique coaching vision.",
-      "repo-name": "project-coaching-shoes",
-      "url": "https://www.coachingshoes.nl/"
-    },
-    {
-      "title": "Boutique Hotel Vosje",
-      "id": 13,
-      "image": "General-Images/HotelVosje.png",
-      "description": "Wix website for a boutique hotel, integrated with Cubilis for bookings.",
-      "repo-name": "project-hotel-vosje",
-      "url": "https://www.hotelvosje.nl/"
-    },
-    {
-      "title": "Pilar Andujar Photography",
-      "id": 14,
-      "image": "General-Images/Pilar Andujar.png",
-      "description": "Photography website structured to highlight the client’s unique style and value proposition.",
-      "repo-name": "project-pilar-andujar-photography",
-      "url": "https://pilarandujarphotography.com/"
-    },
-    {
-      "title": "Figs & Grains",
-      "id": 15,
-      "image": "General-Images/FigsandGrains.png",
-      "description": "Website for a catering and delivery startup. Full branding and website design.",
-      "repo-name": "project-figs-and-grains",
-      "url": "https://www.figsandgrains.com/"
-    },
-    {
-      "title": "Beata Linz Marketing",
-      "id": 16,
-      "image": "General-Images/Bea.png",
-      "description": "SquareSpace website for an email marketing expert. Custom editing and refinements.",
-      "repo-name": "project-beata-linz",
-      "url": "https://www.beatalinz.com/"
-    },
-    {
-      "title": "International Lactation Consultant",
-      "id": 17,
-      "image": "General-Images/ILC.png",
-      "description": "SquareSpace website for a lactation consultant. Full design process from branding to site launch.",
-      "repo-name": "project-ilc",
-      "url": "https://www.internationallactationsupport.com/home"
-    },
-    {
-      "title": "Mandy Krause",
-      "id": 18,
-      "image": "General-Images/Mandy.png",
-      "description": "Portfolio site for an Art Director. Co-designed in collaboration with Mandy.",
-      "repo-name": "project-mandy-krause",
-      "url": "https://www.mandykrause.com/"
-    },
-    {
-      "title": "Moms in Marketing",
-      "id": 19,
-      "image": "General-Images/MIM.png",
-      "description": "Community website for moms in marketing. Co-creator and design lead.",
-      "repo-name": "project-moms-in-marketing",
-      "url": "https://www.moms-in-marketing.com/"
-    },
-    {
-      "title": "CB by Me",
-      "id": 20,
-      "image": "General-Images/CBbyMe.png",
-      "description": "Website for a well-being consultancy. Complete branding and website design.",
-      "repo-name": "project-cbbyme",
-      "url": "https://www.cbbyme.com/"
-    }
-  ]
-  
+  {
+    "title": "Billies Sauna",
+    "id": 1,
+    "category": "Wellness & Fitness",
+    "image": "General-Images/Billies.png",
+    "description": "Wix website for a sauna with seamless integration of an external booking platform for improved UX.",
+    "url": "https://www.billiessauna.com/"
+  },
+  {
+    "title": "Wild Flow",
+    "id": 2,
+    "category": "Wellness & Fitness",
+    "image": "General-Images/Wild Flow.png",
+    "description": "Wix website for a yoga, dance, and sister circles guide. Full design process from branding to build.",
+    "url": "https://www.wildflow-er.com/"
+  },
+  {
+    "title": "Strength by Sara",
+    "id": 3,
+    "category": "Wellness & Fitness",
+    "image": "General-Images/StrengthBySara.png",
+    "description": "Website for a Pilates and barre studio in Haarlem. Clear class pages for every client group.",
+    "url": "https://www.strengthbysara.com/"
+  },
+  {
+    "title": "From Head to Toes",
+    "id": 4,
+    "category": "Wellness & Fitness",
+    "image": "General-Images/FHTT.png",
+    "description": "Website for a massage company. Complete design from branding to website delivery.",
+    "url": "https://www.fromheadtotoes.nl/"
+  },
+  {
+    "title": "International House of Reiki",
+    "id": 5,
+    "category": "Wellness & Fitness",
+    "image": "General-Images/IHReiki.png",
+    "description": "WordPress and WooCommerce website for Reiki courses, retreats and a shop. Ongoing maintenance.",
+    "url": "https://ihreiki.com"
+  },
+  {
+    "title": "Starry Minds",
+    "id": 6,
+    "category": "Health, Care & Beauty",
+    "image": "General-Images/StarryMinds.png",
+    "description": "Website for a behavioral therapist. Handled branding and web design from start to finish.",
+    "url": "https://www.starryminds.com/"
+  },
+  {
+    "title": "International Lactation Consultant",
+    "id": 7,
+    "category": "Health, Care & Beauty",
+    "image": "General-Images/ILC.png",
+    "description": "SquareSpace website for a lactation consultant. Full design process from branding to site launch.",
+    "url": "https://www.internationallactationsupport.com/home"
+  },
+  {
+    "title": "Salon Mane",
+    "id": 8,
+    "category": "Health, Care & Beauty",
+    "image": "General-Images/SalonMane.png",
+    "description": "Website for an independent hair salon, with external booking built in.",
+    "url": "https://www.salonmane.nl/"
+  },
+  {
+    "title": "Villa Maresme",
+    "id": 9,
+    "category": "Hospitality & Food",
+    "image": "General-Images/VillaMaresme.png",
+    "description": "Hotel website with integrated booking system. Built on Wix using Cubilis Hotel Software.",
+    "url": "https://www.villamaresme.com/"
+  },
+  {
+    "title": "Boutique Hotel Vosje",
+    "id": 10,
+    "category": "Hospitality & Food",
+    "image": "General-Images/HotelVosje.png",
+    "description": "Wix website for a boutique hotel, integrated with Cubilis for bookings.",
+    "url": "https://www.hotelvosje.nl/"
+  },
+  {
+    "title": "Artesano Bakkerij",
+    "id": 11,
+    "category": "Hospitality & Food",
+    "image": "General-Images/Artesano.png",
+    "description": "Website for a bakery and café. Design based on the client’s vision and brand identity.",
+    "url": "https://www.artesanobakkerij.com/"
+  },
+  {
+    "title": "The Serious Sofa",
+    "id": 12,
+    "category": "Coaching & Marketing",
+    "image": "General-Images/The Serious Sofa.png",
+    "description": "Wix website created for a coach. Structure co-developed to highlight the client's creative skills.",
+    "url": "https://www.theserioussofa.com/"
+  },
+  {
+    "title": "Coaching Shoes",
+    "id": 13,
+    "category": "Coaching & Marketing",
+    "image": "General-Images/Coaching Shoes.png",
+    "description": "Website for a coach on a platform chosen by the client. Custom illustrations and structure reflect her unique coaching vision.",
+    "url": "https://www.coachingshoes.nl/"
+  },
+  {
+    "title": "Beata Linz Marketing",
+    "id": 14,
+    "category": "Coaching & Marketing",
+    "image": "General-Images/Bea.png",
+    "description": "SquareSpace website for an email marketing expert. Custom editing and refinements.",
+    "url": "https://www.beatalinz.com/"
+  },
+  {
+    "title": "Addrenaline",
+    "id": 15,
+    "category": "Creative & Media",
+    "image": "General-Images/Addrenaline.png",
+    "description": "Elementor website for a media production company. Custom-coded features including parallax effects.",
+    "url": "https://addrenalinemedia.com/"
+  },
+  {
+    "title": "Whispering Bold",
+    "id": 16,
+    "category": "Creative & Media",
+    "image": "General-Images/Whispering Bold.png",
+    "description": "Wix website for an interior design influencer. Co-designed layout to reflect her unique style.",
+    "url": "https://www.whisperingbold.com/"
+  },
+  {
+    "title": "Pilar Andujar Photography",
+    "id": 17,
+    "category": "Creative & Media",
+    "image": "General-Images/Pilar Andujar.png",
+    "description": "Photography website structured to highlight the client’s unique style and value proposition.",
+    "url": "https://pilarandujarphotography.com/"
+  },
+  {
+    "title": "Mandy Krause",
+    "id": 18,
+    "category": "Creative & Media",
+    "image": "General-Images/Mandy.png",
+    "description": "Portfolio site for an Art Director. Co-designed in collaboration with Mandy.",
+    "url": "https://www.mandykrause.com/"
+  },
+  {
+    "title": "Evey Lyon Books",
+    "id": 19,
+    "category": "Creative & Media",
+    "image": "General-Images/EveyLyon.png",
+    "description": "Shopify website for a romance author. Custom-coded features to attract and engage readers.",
+    "url": "https://www.eveylyonbooks.com/"
+  },
+  {
+    "title": "Reimagine Makelaars",
+    "id": 20,
+    "category": "Business & Retail",
+    "image": "General-Images/Reimagine.png",
+    "description": "Website for a real estate agency. Complete design process including branding and website.",
+    "url": "https://www.reimaginemakelaars.com/"
+  },
+  {
+    "title": "Walle Wine",
+    "id": 21,
+    "category": "Business & Retail",
+    "image": "General-Images/WalleWine.png",
+    "description": "WordPress and Elementor website for a B2B wine importer, with a catalogue for business customers.",
+    "url": "https://wallewine.com/"
+  },
+  {
+    "title": "Vivelo Bikes",
+    "id": 22,
+    "category": "Business & Retail",
+    "image": "General-Images/Vivelo.png",
+    "description": "Wix website for a family-run electric cargo bike shop in Valencia.",
+    "url": "https://vivelobikes.com"
+  }
+]
