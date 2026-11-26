@@ -56,9 +56,9 @@ const HeaderText = styled.div`
 const Mailme = styled.img`
   position: fixed;
   right: 10%;
-  top: 50%;
-  height: 75px;
-  width: 75px;
+  top: 80%;
+  height: 100px;
+  width: 100px;
   border-radius: 50%;
   object-fit: cover;
   z-index: 99;
