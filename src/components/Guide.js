@@ -1,6 +1,6 @@
 import React from 'react';
 import styled from 'styled-components';
-import { SectionContainer, Headings, Text } from 'GlobalStyles';
+import { SectionContainer, Text } from 'GlobalStyles';
 
 // To change the text, edit the lists below. Keep the quotes and commas.
 const qualities = [
@@ -73,13 +73,6 @@ const Guide = () => {
     </SectionContainer>
   );
 };
-
-const Subtitle = styled.h3`
-  font-family: 'Karla', sans-serif;
-  font-size: 24px;
-  text-align: center;
-  margin-bottom: 30px;
-`;
 
 const SmallHeading = styled.h3`
   font-family: 'Karla', sans-serif;
