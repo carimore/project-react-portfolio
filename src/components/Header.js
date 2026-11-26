@@ -1,6 +1,5 @@
 import React from 'react'
 import styled from 'styled-components'
-import profileImg from 'Images/profileCM.png'
 import backgroundImg from 'Images/portfolioBackground-desktop.png'
 import Mail from 'Images/Mail.png'
 
@@ -25,24 +24,6 @@ const StyledHeader = styled.header`
   position: relative;
   width: 100vw;
   height: 65vh;
-`
-
-const ProfilePic = styled.img`
-
-position: absolute;
-right: 10%;
-bottom: -5%;
-height: 180px;
-width: 180px;
-border: 2px solid white;
-border-radius: 50%;
-object-fit: cover;
-
-@media (min-width: 1024px) {
-    right: 15%;
-    width: 200px;
-    height: 200px;
-}
 `
 
 const HeaderText = styled.div`
